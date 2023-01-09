@@ -1,6 +1,4 @@
 /*
-Name: PARAG JAIN
-U ID: U85118615
 Description: Header file for CalcList
 */
 #include <iostream>
