@@ -1,6 +1,4 @@
 /*
-Name: PARAG JAIN
-U ID: U85118615
 Description: To make a calculator which can do operations and make a list of them.
 Additionally, making a function to remove the last operation
 */
